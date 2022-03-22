@@ -14,5 +14,19 @@ My strengths are a quick search for solutions to problems, a love of study and s
 
 I want to get the skills and knowledge necessary for a developer, with which I can get a new job and develop further.
 
+# Skills
+
+* HTML
+* CSS(Bootstrap, SCSS, BEM methodology)
+* JS(Fundamentals, DOM, ES6+, Asynchronous JS)
+* React JS(online courses)
+* GULP/Webpack
+* Python(basic knowledge)
+* Git/GitHub
+* SQL(basic knowledge)
+* Figma/Photoshop
+* Windows OS/Mac OS
+* Code Editors: VSCode, Sublime, WebStorm)
+
 
 
