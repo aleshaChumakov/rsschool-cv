@@ -62,4 +62,3 @@ function bmi(weight, height) {
  
  * Russian - native speaker.
  * English - A1
- * German - B1
