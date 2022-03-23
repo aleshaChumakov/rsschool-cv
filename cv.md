@@ -48,6 +48,7 @@ function bmi(weight, height) {
  ```
  
  # Education
+ 
  * Moscow University of Communications and Informatics:
     + Info-telecommunication systems and technologies
  * Rostov College of Communications and Informatics:
