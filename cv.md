@@ -45,9 +45,9 @@ function bmi(weight, height) {
     return '';
   }
 }
- ```
+```
  
- # Education
+# Education
  
  * Moscow University of Communications and Informatics:
     + Info-telecommunication systems and technologies
@@ -59,7 +59,7 @@ function bmi(weight, height) {
     + Front End Development Libraries
  * HTML Academy courses and tests   
 
- # Languages
+# Languages
  
  * Russian - native speaker.
  * English - A1
